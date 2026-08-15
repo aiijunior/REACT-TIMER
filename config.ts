@@ -17,8 +17,8 @@ export const config = {
    * Found in your Supabase project's "Project Settings" > "API"
    */
   supabase: {
-    url: "https://wspodfqpzhueyxpnhyte.supabase.co", // 👈 VITE_SUPABASE_URL
-    anonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndzcG9kZnFwemh1ZXl4cG5oeXRlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODM3NDcwMjUsImV4cCI6MjA5OTMyMzAyNX0.lhn-sdrdDc606vXS6RdT-XbErVkXLVhsoXhFpn3PA4k", // 👈 VITE_SUPABASE_ANON_KEY
+    url: "https://czvveiojokbqsolotcug.supabase.co", // 👈 VITE_SUPABASE_URL
+    anonKey: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImN6dnZlaW9qb2ticXNvbG90Y3VnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODY4MjA5MzgsImV4cCI6MjEwMjM5NjkzOH0.Zn-SjhLUN-JQAJBj9vc3gGK5GJSRIgXXXEzqR4DSkIE", // 👈 VITE_SUPABASE_ANON_KEY
   },
 
   /**
